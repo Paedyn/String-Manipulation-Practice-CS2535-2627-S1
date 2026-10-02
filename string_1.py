@@ -1,7 +1,6 @@
 name = "   aLeX mOrGaN   "
 
 
-print(name.strip())
-print(name.title())
-
-status = "WARNING::ENGINE_OVERHEAT::SECTOR_7"
+name= name.strip()
+name= (name.title)
+print(name)
